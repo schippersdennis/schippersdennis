@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on projects including : HTML, CSS, JavaScript and React. 
 - 🌱 I’m just abut to start with learning Backend-Development (Pyton & Databases)
 - 😄 Available for a new challenge and looking for an employer where I can further develop my junior skills
-- 📫 
+
 
 
 
