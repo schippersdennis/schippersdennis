@@ -1,4 +1,4 @@
-### Hi there & Welcome 👋
+### Hi there & welcome 👋
 - ⚡Learning fullstack-development @ https://www.wincacademy.nl/opleidingen/full-stack-development
 - 🔭 I’m currently working on projects including : HTML, CSS, JavaScript and React. 
 - 🌱 I’m just abut to start with learning Backend-Development (Pyton & Databases)
