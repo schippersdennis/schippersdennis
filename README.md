@@ -1,6 +1,5 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Frontend-Development. Projects including : HTML, CSS, JavaScript and React
-- 
 - 🌱 I’m currently learning Backend-Development (Pyton & Databases)
 
 <!--
